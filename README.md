@@ -1,2 +1,2 @@
-# panakzol.github-io
+# panakzol.github.io
 demo oldal
